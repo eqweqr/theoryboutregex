@@ -1,0 +1,7 @@
+Conspect of vim and latex
+1). -- repeat move
+2)x -- delete ceracter under cursor
+3)dd -- delete line
+4)u -- отменить прошлое действие
+5)A -- начать изменения с конца строчки
+
